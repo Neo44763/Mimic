@@ -1,0 +1,1 @@
+Mimics a text file
